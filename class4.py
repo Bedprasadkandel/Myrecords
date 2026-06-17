@@ -37,14 +37,16 @@ else:
 
 # next method:
 
-value = input("Enter the any number:")
-if value.isdigit():
-    value=int(value)
-    print("converted to integer:")
-elif"." in value:
-    value=float(value)
-    print("converted to float")
-else:
-    print("converted to string")
+# value = input("Enter the any number:")
+# if value.isdigit():
+#     value=int(value)
+#     print("converted to integer:")
+# elif"." in value:
+#     value=float(value)
+#     print("converted to float")
+# else:
+#     print("converted to string")
             
 
+
+print("My name is bed prasad kandel")
